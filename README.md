@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Mutakin**.
 
-Saya adalah seorang mahasiswa di STMIK Tasikmalaya, saya suka dengan pemrogramman khususnya bidang android.
+Saya adalah seorang mahasiswa di Universitas Perjuangan Tasikmalaya, saya suka dengan pemrogramman khususnya bidang android. Saya berpengalaman membuat aplikasi android menggunakan kotlin dan flutter. Saya juga memiliki kemampuan dalam membuat website menggunakan HTML, CSS, Javascript dan Framework PHP. Saya juga mampu beradaptasi dengan berbagai teknologi bahasa pemrogramman.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mutakin-90a73a195/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/mutakin01/)ku ya.
 # Statistik Github
 <p align="left">
 <a href="https://github.com/mutakin-san">
